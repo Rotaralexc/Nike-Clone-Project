@@ -2,7 +2,7 @@
 
   <h3 align="center">Nike Clone Project</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/Nike-Clone-Project/blob/b7d4aa11d2ea5e1379059249c4785667202d0471/Nike.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
