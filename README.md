@@ -7,6 +7,8 @@
 
   <h3 align="center">DEMO</h3>
 
+  https://github.com/user-attachments/assets/ef8ffb79-f89e-4ceb-818d-8f2091e766d5
+
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
